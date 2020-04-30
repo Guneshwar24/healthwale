@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/alike_angular</item>
+        <item>@font/allan_bold</item>
+        <item>@font/allura</item>
+        <item>@font/amaranth_bold_italic</item>
+        <item>@font/amiko</item>
+        <item>@font/averia_gruesa_libre</item>
+        <item>@font/bad_script</item>
+        <item>@font/bilbo_swash_caps</item>
+        <item>@font/calligraffitti</item>
+        <item>@font/carrois_gothic</item>
+        <item>@font/cedarville_cursive</item>
+        <item>@font/hind_madurai_light</item>
+        <item>@font/hind_vadodara_semibold</item>
+        <item>@font/homemade_apple</item>
+        <item>@font/miniver</item>
+        <item>@font/petit_formal_script</item>
+        <item>@font/tillana_bold</item>
+        <item>@font/vibur</item>
+    </array>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">healthwalapp</string>
+    <string name="open" />
+    <string name="close" />
+    <string name="content1">Wash your hands properly for 20 seconds</string>
+    <string name="content2">stay home stay safe</string>
+    <string name="content3">Wear mask whenever you step out of the house</string>
+    <string name="content4">santize you hands whenever you have touhed a surface</string>
+    <string name="content5">Practice social distancing</string>
+    <string name="content6">Visit a doctor in case you feel symptomatic</string>
+    <string name="content7">Drink plenty of water and stay hydrated</string>
+    <string name="content8">Exercise to stay fit and healthy</string>
+    <string name="content9">Clean commonly used surfaces</string>
+    <string name="content10">maintain a balanced diet to stay healthy</string>
+    <string name="content11">Do not go out unnecessarily</string>
+    <string name="content12">dont be near people who seem symptomatic</string>
+    <string name="content13">restrain from touching your eyes,nose and mouth</string>
+    <string name="content14">Don\'t spread misconceptions about the virus</string>
+    <string name="content15">avoid touching commonly used surfaces</string>
+    <string name="content16">avoid visiting the hospital for any other problem as much as you can</string>
+    <string name="content17">Do not hold any gatherings or meetings physically</string>
+    <string name="quiz">we want you to take the following quiz to make sure you are well .</string>
+    <string name="para2">take the quiz to know if you are safe or you are at a risk of contacting the virus</string>
+    <string name="healthwale">HEALTHWALE</string>
+    <string name="_00_20">00:20</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_google_maps">Map</string>
+
+</resources>

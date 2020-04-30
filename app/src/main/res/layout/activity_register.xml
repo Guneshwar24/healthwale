@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".RegisterActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HEALTHWALE"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="200dp"
+        android:textColor="#FAFAFA"
+        android:textStyle="bold"
+        android:textSize="40dp"
+        />
+
+    <Spinner
+        android:layout_marginTop="320dp"
+        android:id="@+id/spinnerCountries"
+        android:layout_width="120dp"
+        android:outlineSpotShadowColor="#ffffff"
+        android:outlineAmbientShadowColor="#ffffff"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="80dp"
+        android:layout_height="wrap_content" />
+
+
+    <EditText
+        android:id="@+id/editTextPhone"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="400dp"
+
+        android:layout_weight="2"
+        android:background="@drawable/button"
+        android:digits="0123456789"
+        android:hint=" PHONE NUMBER..."
+        android:textAlignment="center"
+        android:maxLength="10"
+        android:textColor="#FA8C8C"
+        android:textStyle="bold"
+        tools:textColorHint="#FFFFFF" />
+
+    <Button
+        android:id="@+id/buttonContinue"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="150dp"
+        android:background="@drawable/button"
+        android:text="Send OTP"
+        android:textAllCaps="false"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

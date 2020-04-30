@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054338410686",
+    "firebase_url": "https://healthwalapp.firebaseio.com",
+    "project_id": "healthwalapp",
+    "storage_bucket": "healthwalapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054338410686:android:ee96626174f3cc4ad756ef",
+        "android_client_info": {
+          "package_name": "com.example.healthwalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054338410686-1c3aai5o5nvm2n33iluudsp0k5mlluv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthwalapp",
+            "certificate_hash": "24e079de3f24249d49c0ca38a0c48d52531353d9"
+          }
+        },
+        {
+          "client_id": "1054338410686-i1aj5hb39ii1gnns0ehhnpipua29rpqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV3HAfgL2YAjC9SM0fcot3h5o4RPePvMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054338410686-i1aj5hb39ii1gnns0ehhnpipua29rpqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

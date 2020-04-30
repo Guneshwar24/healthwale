@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+  >
+
+    <item android:title="Try this out!">
+        <menu>
+        <item
+            android:title="home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:id="@+id/home"/>
+        <item
+            android:title="Dos "
+            android:icon="@drawable/ic_assignment_turned_in_black_24dp"
+            android:id="@+id/dos"/>
+            <item
+                android:title="Donts "
+                android:icon="@drawable/ic_assignment_turned_in_black_24dp"
+                android:id="@+id/donts"/>
+        <item
+            android:title="take a quiz!"
+            android:icon="@drawable/ic_insert_chart_black_24dp"
+            android:id="@+id/quiz"/>
+        </menu>
+    </item>
+    <item android:title="Features">
+        <menu>
+        <item
+            android:title="wash your hands!"
+            android:icon="@drawable/ic_timer_black_24dp"
+            android:id="@+id/hands"/>
+        <item
+            android:title="medical stores nearby"
+            android:icon="@drawable/ic_add_shopping_cart_black_24dp"
+            android:id="@+id/medical_stores"/>
+
+
+        <item
+            android:title="settings"
+            android:icon="@drawable/ic_settings_applications_black_24dp"
+            android:id="@+id/seetings"/>
+</menu>
+    </item>
+
+</menu>

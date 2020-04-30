@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background2"
+    tools:context=".QuestionActivity">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="HEALTHWALE"
+    android:textColor="#FAFAFA"
+    android:layout_marginRight="50dp"
+    android:layout_marginLeft="70dp"
+    android:layout_marginTop="50dp"
+    android:textStyle="bold"
+    android:textSize="40dp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="cursive"
+        android:paddingLeft="40dp"
+        android:text="We make sure you are well"
+        android:textSize="35dp"
+        android:textColor="#ffffff"
+        android:textStyle="italic"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/miniver"
+        android:paddingTop="10dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/quiz"
+        android:textColor="#ffffff"
+        android:textSize="27dp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/miniver"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:layout_marginTop="10dp"
+        android:textColor="#ffffff"
+        android:text="@string/para2"
+        android:textSize="27dp"
+        android:textStyle="italic"/>
+    <Button
+        android:id="@+id/takequiz"
+        android:layout_width="280dp"
+        android:layout_height="70dp"
+        android:background="@drawable/button"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="100dp"
+        android:text="Take Quiz"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:textAllCaps="false"/>
+
+
+
+
+
+
+</LinearLayout>
